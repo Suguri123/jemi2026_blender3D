@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/jejuckl_blender3D_2026/',
+  base: '/jemi2026_blender3D/',
   build: {
     outDir: 'dist'
   },
